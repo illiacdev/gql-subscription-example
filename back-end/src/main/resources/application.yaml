@@ -1,0 +1,9 @@
+#spring.application.name=back-end
+spring:
+  graphql:
+    graphiql:
+      enabled: true
+
+
+    websocket:
+      path: /graphql
